@@ -1,0 +1,34 @@
+[ {
+  "case_title" : "Test USA Journal Article",
+  "locale" : "USA",
+  "content" : "content balalalalala",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "Employee Generated",
+  "case_status" : "Open"
+}
+, {
+  "case_title" : "Test 新規作成",
+  "locale" : "JPN",
+  "content" : "新大阪, 作戦大成功, 新規作成",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "Employee Generated",
+  "case_status" : "Open"
+}
+
+, {
+  "case_title" : "Test HUNGARY",
+  "locale" : "HUNGARY",
+  "content" : "entitas neve",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "Employee Generated",
+  "case_status" : "Open"
+}
+, {
+  "case_title" : "测试中文规则",
+  "locale" : "ZH",
+  "content" : "Liferay是最好的产品 ",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "Employee Generated",
+  "case_status" : "Open"
+}
+]
