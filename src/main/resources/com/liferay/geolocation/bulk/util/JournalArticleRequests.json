@@ -14,7 +14,6 @@
   "source" : "Employee Generated",
   "case_status" : "Open"
 }
-
 , {
   "case_title" : "Test HUNGARY",
   "locale" : "HUNGARY",
@@ -31,4 +30,167 @@
   "source" : "Employee Generated",
   "case_status" : "Open"
 }
+, {
+  "case_title" : "垃圾桶（桶）存放不当",
+  "locale" : "ZH",
+  "content" : "市议会区",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "员工生成",
+  "case_status" : "开放"
+}
+, {
+  "case_title" : "中文_百度百科",
+  "locale" : "ZH",
+  "content" : "中文（Chinese），广义上是汉语的别称",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "员工生成",
+  "case_status" : "开放"
+}
+, {
+  "case_title" : "纽约时报中文网国际纵览",
+  "locale" : "ZH",
+  "content" : "纽约时报中文网国际纵览(cn.NYTimes.com)是纽约时报公司旗下的首个中文媒介产品，",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "员工生成",
+  "case_status" : "开放"
+}
+, {
+  "case_title" : "中文 - 中国华文教育",
+  "locale" : "ZH",
+  "content" : "教材名称, 平面版下载. 《中文》教材第一册. 单课 · 整书.",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "员工生成",
+  "case_status" : "开放"
+}
+, {
+  "case_title" : "China 简体中文« 下载和安装",
+  "locale" : "ZH",
+  "content" : "在右侧下载WordPress简体中文版本。 下载压缩包到本地，解压缩，双击解开的文件夹中的 readme.html 文件，即可查看WordPress的介绍、安装，",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "员工生成",
+  "case_status" : "开放"
+}
+, {
+  "case_title" : "中文版单机游戏下载",
+  "locale" : "ZH",
+  "content" : "游侠网单机游戏下载频道提供中文版单机游戏下载.",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "员工生成",
+  "case_status" : "开放"
+}
+, {
+  "case_title" : "ごみ箱（バレル）が不適切に保管されています",
+  "locale" : "JA",
+  "content" : "市議会区",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "日本語(にほんご)とは - コトバンク",
+  "locale" : "JA",
+  "content" : "ブリタニカ国際大百科事典 小項目事典 - 日本語の用語解説",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "日本語とは (ニホンゴとは) ",
+  "locale" : "JA",
+  "content" : "日本語とは、自然言語のひとつである。",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "日本語Q&A｜日本語・日本語教師｜アルク",
+  "locale" : "JA",
+  "content" : "「日本語Q&A」では、日本語についてのよくある質問をQ&A形式でご紹介します。",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "東外大言語モジュール｜日本語",
+  "locale" : "JA",
+  "content" : "日本語の使用地域と人口. 日本語は日本国内で約1億2千6百万人が",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "日本語を英語で・英訳 ",
+  "locale" : "JA",
+  "content" : "日本語を英語で訳すと Japanese; ",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "日本語の「生き甲斐」が海外メディアで話題に。",
+  "locale" : "JA",
+  "content" : "an 5, 2018 - カワイイ、オタク、ゲイシャ、スキヤキなど、海外でそのまま通じる日本語は数多くあります。",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "従業員が生成した",
+  "case_status" : "オープン"
+}
+, {
+  "case_title" : "휴지통 (배럴)이 부적절하게 보관되어 있습니다",
+  "locale" : "KO",
+  "content" : "시의회 구",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생성 된",
+  "case_status" : "오픈"
+}
+, {
+  "case_title" : "일본어 (일본어)는 - 코토반쿠",
+  "locale" : "KO",
+  "content" : "브리태니커 세계 대백과 사전 소항목 사전 - 일본어 용어 해설",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생성 된",
+  "case_status" : "오픈"
+}
+, {
+  "case_title" : "일본어는 (니혼고는) ",
+  "locale" : "KO",
+  "content" : "일본어는 자연 언어의 하나이다.",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생성 된",
+  "case_status" : "오픈"
+}
+, {
+  "case_title" : "일본어 Q & A | 일본어 · 일본어 교사 KO | 아크",
+  "locale" : "KO",
+  "content" : "「일본어 Q & A '에서는 일본어에 관한 자주 묻는 질문을 Q & A 형식으로 소개합니다.",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생성 된",
+  "case_status" : "오픈"
+}
+, {
+  "case_title" : "東外 대 언어 모듈 | 일본어",
+  "locale" : "KO",
+  "content" : "일본어의 사용 지역과 인구. 일본어는 일본 국내에서 약 1 억 2 천 6 백만 명이",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생",
+  "case_status" : "오픈"
+}
+, {
+  "case_title" : "일본어를 영어 · 영어 번역 ",
+  "locale" : "KO",
+  "content" : "일본어를 영어로 번역하면 Japanese; ",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생성 된",
+  "case_status" : "오픈"
+}
+, {
+  "case_title" : "일본어의 「보람」가 해외 언론에서 화제가되었다.",
+  "locale" : "KO",
+  "content" : "an 5, 2018 - 귀여운, 괴짜, 게이샤, 스키야키 등 해외에서 그대로 통하는 일본어는 많이 있습니다.",
+  "target_dt" : "2011-07-15T01:32:32",
+  "source" : "직원이 생성 된",
+  "case_status" : "오픈"
+}
+
+
+
 ]

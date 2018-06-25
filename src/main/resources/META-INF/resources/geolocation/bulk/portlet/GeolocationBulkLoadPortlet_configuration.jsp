@@ -16,6 +16,8 @@
 
 <%@page import="com.liferay.geolocation.bulk.portlet.GeolocationBulkLoadPortletPreferencesImpl"%>
 <%@page import="com.liferay.geolocation.bulk.portlet.GeolocationBulkLoadPortletPreferences"%>
+<%@page import="com.liferay.javax.portlet.PortletPreferencesJspUtil" %>
+
 <%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
 
 <%@ taglib uri="http://liferay.com/tld/aui" prefix="aui" %>
@@ -32,7 +34,7 @@
 <portlet:defineObjects />
 
 <%
-GeolocationBulkLoadPortletPreferences userFacetPortletPreferences = new GeolocationBulkLoadPortletPreferencesImpl(java.util.Optional.of(portletPreferences));
+GeolocationBulkLoadPortletPreferences geolocationBulkLoadPortletPreferences = new GeolocationBulkLoadPortletPreferencesImpl(java.util.Optional.of(portletPreferences));
 %>
 
 <liferay-portlet:actionURL portletConfiguration="<%= true %>" var="configurationActionURL" />
@@ -45,7 +47,7 @@ GeolocationBulkLoadPortletPreferences userFacetPortletPreferences = new Geolocat
 
 	<div class="portlet-configuration-body-content">
 		<div class="container-fluid-1280">
-			<aui:input label="portlet.user-facet.configuration.user-parameter-name" name="<%= PortletPreferencesJspUtil.getInputName(UserFacetPortletPreferences.PREFERENCE_PARAM_NAME) %>" value="<%= userFacetPortletPreferences.getParamName() %>" />
+			<aui:input label="com.liferay.geolocation.bulk.dry-run" name="<%= PortletPreferencesJspUtil.getInputName(GeolocationBulkLoadPortletPreferences.PREFERENCE_KEY_DRY_RUN) %>" type="checkbox" value="<%= geolocationBulkLoadPortletPreferences.isDryRun() %>" />
 		</div>
 	</div>
 

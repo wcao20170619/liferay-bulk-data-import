@@ -14,18 +14,18 @@
 
 package com.liferay.geolocation.bulk.portlet;
 
+import javax.portlet.ActionRequest;
+import javax.portlet.ActionResponse;
+
+import org.osgi.service.component.annotations.Component;
+import org.osgi.service.component.annotations.Reference;
+
 import com.liferay.geolocation.bulk.util.GeolocationDemoDatasetBulkLoader;
 import com.liferay.geolocation.bulk.util.JournalArticleBulkLoader;
 import com.liferay.portal.kernel.portlet.bridges.mvc.BaseMVCActionCommand;
 import com.liferay.portal.kernel.portlet.bridges.mvc.MVCActionCommand;
 import com.liferay.portal.kernel.util.ParamUtil;
 import com.liferay.portal.kernel.util.Portal;
-
-import javax.portlet.ActionRequest;
-import javax.portlet.ActionResponse;
-
-import org.osgi.service.component.annotations.Component;
-import org.osgi.service.component.annotations.Reference;
 
 /**
  * @author André de Oliveira

@@ -24,17 +24,17 @@ public class GeolocationBulkLoadCommand {
 	}
 
 	public void load() throws Exception {
-		load("10");
+		load("100");
 	}
 	
 	public void loadJArticle() throws Exception {
 		new GeolocationDemoDatasetBulkLoader(journalArticleBulkLoader).loadJArticle(
-			Integer.valueOf(10), false);
+			Integer.valueOf(100), false);
 	}
 
 	@Activate
 	protected void start() {
-		System.out.println("Geolocation Bulk Load is ready......");
+		System.out.println("Bulk Load is ready......");
 	}
 
 	@Reference
