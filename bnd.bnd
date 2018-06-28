@@ -12,5 +12,6 @@ Include-Resource:\
 	lib/jackson-databind.jar=jackson-databind-2.1.4.jar
 Import-Package: \
 	com.liferay.portal.kernel.service;version="[1.0,2.1)",\
+	com.liferay.portal.kernel.util;version="[7.38.0,10.0.0)",\
 	\
 	*
